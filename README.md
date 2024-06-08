@@ -2,9 +2,6 @@
 <h3 align="center">A Machine Learning and Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourhan-ahmedd" alt="nourhan-ahmedd" /></a> </p>
-
 - 🌱 I’m currently learning **more about deep learning**
 
 - 📫 How to reach me **nourhanahmed0505@gmail.com**
