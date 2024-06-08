@@ -18,8 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhan-ahmedd&show_icons=true&locale=en&layout=compact" alt="nourhan-ahmedd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourhan-ahmedd&show_icons=true&locale=en" alt="nourhan-ahmedd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourhan-ahmedd&" alt="nourhan-ahmedd" /></p>
-
 
